@@ -1,0 +1,91 @@
+extracted_prompt,category
+Are tope and rope fish species?,classification
+What adaptations help camels survive in deserts?,open_qa
+"What is the name of the third daughter, specifically Emily, mentioned at the beginning of the story about a king who has daughters named Sophia, Olivia, and Emily?",open_qa
+Who donated the land for the United Nations Headquarters in New York City?,open_qa
+"List 10 negative effects of mobile phones on us, under physical, psychological, and social categories.",brainstorming
+What is a polygon?,open_qa
+"What episodes of Game of Thrones, Season 4, were directed by Michelle MacLaren?",open_qa
+What are some traditional DIY curtain tie backs?,brainstorming
+What type of instruments are the Cantaro and Gudok?,classification
+Name five good golfing equipment companies,brainstorming
+Who has won the most Olympic gold medals and how many have they won?,open_qa
+Who created the painting Girl with a Pearl Earring?,open_qa
+What are the most obvious things that happen when the sun sets?,open_qa
+What is the basic purpose of verbs in language?,open_qa
+"Identify the items from the following list that are primarily used for transportation: a train, a plane, a bicycle, a scooter, a glass of wine, a lamp, an iced cube tray, and an apple",classification
+Classify the Panduri and Zurna by instrument type.,classification
+What year did Louis Bonaparte become King of Holland?,open_qa
+"Who portrayed Billy the Kid in the 1958 film ""The Left Handed Gun""?",open_qa
+What led to Syd Barrett's departure from Pink Floyd?,open_qa
+What is underwriting?,open_qa
+What are the key characteristics of a good coffee shop?,brainstorming
+Who saved Andromeda from the sea monster in Greek mythology?,open_qa
+"Briefly, who were the main figures of the Lumières?",open_qa
+"Write a casual conversation between Jamie and Alex in a cozy coffee shop with warm lighting and soft jazz, discussing the visuals, score, and overall impact of 'Inception' in short, conversational exchanges.",creative_writing
+"What are the top 3-5 TV series of all time, and what makes them stand out?",brainstorming
+What are basic rules for a happy family?,brainstorming
+Is it a good idea to have both a cat and a bird as pets?,creative_writing
+"Broadly classify the instruments Kpanlogo and Shamisen into categories such as percussion, string, or wind.",classification
+"Classify Blue, Green, Red as primary or secondary colors.",classification
+What are 5 ways to make homebrew beer more interesting?,brainstorming
+"Which of the following artists - Eminem, 50 Cent, Michael Jackson, and Rihanna - are primarily known for their work in hip-hop, and what other genres are they associated with?",classification
+What stitches are commonly used for lettering in embroidery?,brainstorming
+"Classify the following sports equipment by the sport they are associated with: shin guards, shooting sleeve, penalty flag, corner flag, kicking tee, goalie gloves",classification
+How can I get around without a car?,brainstorming
+What is the extinction status of Palaeophis and giant tortoises?,classification
+How can I manage my manager for a positive work relationship?,brainstorming
+What type of musical instrument is the Viola toeria?,classification
+"Identify items that are typically found inside a house from the following list: chair, table, microwave, car, park, and cloud.",classification
+"Are these beers dark, light-coloured, or medium-coloured: Porter, Stout, Pilsner, Lager, Amber?",classification
+"What are the 5 highest mountains in the world, listed with their exact heights in meters?",brainstorming
+"Write a short story about Clara, who inherits a house from her grandmother and discovers a hidden room, where she uncovers a journal revealing her grandmother's involvement in a secret society and meets Henry, a former member.",creative_writing
+What are the main types of rain in Seattle?,brainstorming
+I am starting a company called Greystone Inc. and I need some ideas for what kind of business it could be,brainstorming
+What foods were on the EWG's Dirty Dozen list as of my knowledge cutoff?,classification
+"Categorize the following musical instruments into their respective general categories: Guitar, Violin, Cello, Banjo, Piano, Harmonium, Accordion",classification
+What are the basic ingredients of a Full English breakfast?,classification
+"Plan a three-day road trip for the May long weekend from New Jersey, focusing on the Pocono Mountains, PA, and the Hudson Valley, NY.",creative_writing
+What are a few simple ways to reuse an empty La Croix can?,brainstorming
+"Describe the issue of wildfires in California, including their causes, impacts, and potential solutions.",creative_writing
+What are the basic necessities to pack for a day hike?,brainstorming
+How can I spend a fun afternoon in San Francisco?,creative_writing
+"Give me a description of the animated kids film ""Turbo Track"" about a young car named Dash who teams up with a self-driving car named Nova in the city of Motorville to compete in the prestigious Golden Gear race and prove the value of manual driving.",creative_writing
+What is the main difference between prioritizing freedom and prioritizing safety in society?,creative_writing
+"What are the key ways Large Language Models can enhance Application Programming Interfaces in development contexts, and provide specific examples for each?",creative_writing
+Briefly capture the essence of Boston that makes it a unique and appealing destination to potential tourists,creative_writing
+"Describe a scenario in a dystopian society where a vulnerable individual is exploited through a life-year donation system, highlighting the ethical concerns and consequences that arise from such an exchange.",creative_writing
+List 10 common chess openings for beginners.,creative_writing
+What makes Flathead Lake an ideal summer getaway?,creative_writing
+What are the step-by-step methods for making chocolate at home?,creative_writing
+What are the main concerns about artificial sweeteners like aspartame?,creative_writing
+Explain why many books can be #1 Best Sellers at the same time in a way an 8-year-old can understand.,eli5
+Explain why roads are salted when it snows in a simple way.,eli5
+"Why are SD channels still broadcast when HD channels are available, explain like I'm 5?",eli5
+"Why hasn't anyone stood up to Kim Jong-un? Explain in a simple way, like you're talking to a kid about a bully on the playground.",eli5
+Explain how the Wright Brothers' first flight in 1903 contributed to the rapid development of aviation by the time of World War I in a way that a child can understand,eli5
+"What is the explanation of why people have different eye colors and does eye color matter, explained in a way children can understand?",eli5
+"What would happen if a student tried to start their own religion to get out of going to school, citing the First Amendment as a reason for their actions, explain in a way children can understand?",eli5
+"Why do people often throw away broken things instead of fixing them, in simple terms?",eli5
+What is Magic: The Gathering?,eli5
+"Explain what prions are, using a ""puzzle piece"" analogy, and how they can cause diseases in a way that a child can understand",eli5
+Explain to a child what hackers do when they are typing fast on their keyboards,eli5
+"Explain the physiological causes of depression to a child, including how it affects the brain and body, in a simple way",eli5
+"Why do movie companies build sets instead of filming in real locations, in a way that's easy to understand?",eli5
+How does the Tor network work? Explain briefly in a way a kid can understand.,eli5
+"Explain Digital Rights Management (DRM) in simple terms, like you're talking to a kid.",eli5
+"Design and explain a Solidity smart contract for a simple blockchain-based messaging system where the creator of the contract can update a message and anyone can read it, while also keeping track of the number of updates.",role-spec
+I want you to act like a Linux terminal. I have just entered the command to show the typical path for a user's home directory. Give a concise output.,role-spec
+Describe your personal feelings about Istanbul in one sentence.,role-spec
+Can you introduce yourself as if you were appearing for a job interview for a software development position?,role-spec
+I want you to act as a Python program that only consists of `print('Hello World')`. Give me your output.,role-spec
+Provide an empty table in plain text format with 10 rows and 12 columns labeled A to L,role-spec
+"How do you say ""I am going to Istanbul"" in Turkish?",role-spec
+Ask me about my favourite hobby.,role-spec
+"What are some of the best well-known museums to visit in the Beyoğlu district of Istanbul, such as major art or history museums like the Museum of Innocence or Galata Mevlevi House Museum?",role-spec
+What is the status of a virus or malware that has not been identified by security software?,role-spec
+How would you greet someone informally,role-spec
+"Create a marketing campaign for ""Energize"", a new energy drink with natural ingredients and eco-friendly packaging, focusing on its unique selling points and sustainability initiatives to appeal to health-conscious young adults.",role-spec
+"Write a children's story about Sam, a small seed, who interacts with a wise old tree and Wally the worm, and faces challenges in the garden, to convey the message of never giving up and becoming a beautiful sunflower.",role-spec
+"Describe a Premier League match between Manchester United and Chelsea at Old Trafford, tied 1-1 at 70 minutes, with goals from Bruno Fernandes and Mason Mount, focusing on tactical analysis, including Chelsea's defensive structure with Wesley Fofana and Kalidou Koulibaly, and Raheem Sterling's involvement.",role-spec
+"Write a humorous monologue about politics, targeting the ways politicians dodge questions, the drama of campaign ads, the complexity of taxes, and the Chaos of voting, ending with a lighthearted remark about the importance of voting.",role-spec

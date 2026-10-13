@@ -1,0 +1,371 @@
+extracted_prompt,category
+"
+**Revised Prompt:**
+1. **Tope**: Confirm its taxonomic classification (family, genus, species) and verify if it is a valid fish species. Provide only scientific names and avoid common misconceptions.
+2. **Rope**: Determine if it is a recognized fish species, listing its correct scientific classification (if applicable) and clarifying any misclassifications (e.g., non-fish).
+**Constraints**: Strictly adhere to biological taxonomy; exclude folklore, cultural references, or non-scientific details.
+",classification
+"
+**List the key broad survival strategies that allow camels to thrive in hot, dry deserts, focusing on water conservation, metabolic efficiency, and behavioral adjustments—without specifying physiological details or quantitative comparisons.**
+",open_qa
+"
+**""In a family with three daughters, the first is named Alice. What is the name of the third daughter?""**
+",open_qa
+"
+Who donated land for the UN headquarters in New York, including the exact year of donation (1946), the number of acres (14.5 acres), whether funding was used for purchase (partially, as Rockefeller Jr. also provided financial support), and the dedication year (1952), while noting the location (Turtle Bay, Midtown Manhattan)?
+",open_qa
+"
+List the **general negative effects** of mobile phones on humans, covering key areas like radiation exposure, eye strain, sleep disruption, addiction, and social/mental health impacts. Provide a **brief overview** without deep mechanisms, studies, or mitigation strategies—focus on broad categories only.
+",brainstorming
+"
+Define a polygon in the simplest terms, covering its basic properties (straight sides, vertices, closed shape). Briefly classify polygons by:
+1. Number of sides (triangle to decagon),
+2. Regularity (equal sides/angles vs. unequal),
+3. Convexity (all interior angles ≤ 180° vs. at least one > 180°).
+Avoid examples or tables.
+",open_qa
+"
+Which two episodes of *Game of Thrones* Season 4 were directed by Michelle MacLaren?
+",open_qa
+"
+Provide 12 simple and creative DIY curtain tie-back ideas without detailed steps or materials breakdowns.
+",brainstorming
+"
+**Compare the Cantaro and Gudok, focusing only on whether they are classified as string instruments.**
+",classification
+"
+List five major global golf equipment brands known for clubs, balls, and accessories.
+",brainstorming
+"
+Who is the athlete with the most Olympic gold medals?
+",open_qa
+"
+**Who painted *Girl with a Pearl Earring* and where is it displayed?**
+",open_qa
+"
+**What are the key events and effects of sunset, including:**
+- **Natural phenomena** (e.g., sky colors, temperature changes)
+- **Animal behaviors** (e.g., migration, rest patterns)
+- **Human activities** (e.g., daily routines, cultural traditions)
+- **Night sky visibility** (e.g., stars, constellations)
+**Keep it simple and straightforward.**",open_qa
+"
+Explain the basic purpose of verbs in English, focusing on their primary functions (action/state of being) and key grammatical roles (tense, mood). Briefly mention their classifications (action, linking, auxiliary) with minimal examples.
+",open_qa
+"
+Provide a concise list of items from the following examples that are primarily used for human transportation, excluding those that are strictly functional (e.g., tools) or incidental (e.g., consumables like wine, ice cube trays). Classify each item as either a *transportation mode* or *non-transportation*, justifying why the apple is excluded despite being movable.
+Examples: A train, a glass of wine, a bicycle, a lamp, a scooter, an iced cube tray, an apple.
+",classification
+"Explain the difference between the instruments ""Panduri"" and ""Zurna"" in terms of their primary classification (string vs. woodwind) and provide a concise definition for each. ",classification
+"
+Who was Louis Bonaparte, his familial connection to Napoleon, and when did he rule as King of Holland? Briefly state his abdication year and reason.
+",open_qa
+"
+**Revised Prompt:**
+*""Who played Billy the Kid in the 1971 film *The Left Handed Gun*?""*
+",open_qa
+"
+**Why did Syd Barrett leave Pink Floyd?** Focus solely on his **mental health struggles and drug use** as the primary reasons for his departure, without discussing creative decline, specific musical examples, or later life details.
+",open_qa
+"
+Explain **underwriting** in the context of **insurance, loans, and investment banking**, focusing on:
+- **Clear definitions** for each sector (e.g., insurance risk assessment, loan approval, IPO financing).
+- **One or two practical examples** (e.g., mortgage underwriting, bond underwriting) to illustrate how it operates.
+Keep explanations concise and sector-specific.
+",open_qa
+"
+**Refined Prompt (Aspirational Focus):**
+*""What are the **core qualities and principles** that define a thriving, customer-centric coffee shop—one that transcends transactional service and leaves a lasting impression? Focus on the **broad, high-level attributes** (e.g., purpose, craftsmanship, community) that shape brand identity and emotional connection, rather than tactical execution. Avoid step-by-step instructions; instead, highlight:
+- **Mindset/Values** (e.g., ‘authenticity,’ ‘excellence’)
+- **Experiential Elements** (e.g., ‘immersive atmosphere,’ ‘shared moments’)
+- **Differentiation** (e.g., ‘uniqueness in service,’ ‘sustainability’)
+Return a concise, evocative list—prioritizing inspiration over implementation—with a mix of **quality, service, and ambiance** at its heart.""*
+
+",brainstorming
+"
+**Revised Prompt:**
+Who rescued Andromeda from the sea monster Cetus in Greek mythology, and how did his divine tools help? Summarize the key events—her sacrifice, Cetus’s defeat, and their marriage—without detailing Medusa’s role.
+",open_qa
+"
+Provide a concise summary of the ""Lumières"" (French Enlightenment thinkers of the 18th century), including:
+- Definition and key philosophical principles (e.g., reason, skepticism, individualism).
+- Major figures (Voltaire, Rousseau, Diderot, Montesquieu) and their contributions (e.g., *Encyclopédie*, *The Spirit of the Laws*).
+- Broader impact on the French Revolution and modern thought.
+",open_qa
+"
+**""Create a short, engaging dialogue script between two friends about the film *Inception* (2010), focusing on its themes of perception, reality, and storytelling. The setting should be a cozy coffee shop with warm lighting and soft jazz. The conversation should blend analysis of key plot points (e.g., totems, Cobb’s spinning top, visuals, and score) with light humor and personal reflections on the film’s emotional impact and philosophical questions—such as whether reality is subjective. The tone should be casual yet thoughtful, with Alex and Jamie’s dynamic alternating between deep discussion and playful banter.""**
+",creative_writing
+"
+What are the **10 most frequently cited** globally acclaimed TV series, based on critical consensus and cultural impact? Provide **brief descriptions** (1–2 sentences max) of their significance.
+",brainstorming
+"
+**List some general family rules that help build strong relationships.**
+",brainstorming
+"
+**What are the key risks (biological, behavioral, or ethical) of housing a cat and bird together, and should they live together? Provide a brief ethical assessment without elaborating on solutions.**
+",creative_writing
+"
+What are the **Kpanlogo** and **Shamisen** classified as in terms of instrument type?
+",classification
+"
+**List each color as either primary or secondary (RGB-based):**
+**RGB primaries:** Red, Green, Blue
+**RGB secondaries:** None for these colors.
+Colors to classify: Blue, Green, Red
+",classification
+"
+**Revised Prompt:**
+How can homebrewers enhance their beer’s flavor and complexity with **broad, creative strategies**—without relying on specific recipes or overly technical details?
+
+Focus on:
+- **Yeast choices** (e.g., fruity, spicy, or dry-hopping-friendly strains)
+- **Ingredient creativity** (e.g., bold malts, unexpected spices, or specialty grains)
+- **Flavor-building techniques** (e.g., dry-hopping, aging, wood infusion, or fermentation tweaks)
+- **Playful adjustments** (e.g., flavor pairing, balancing bitterness, or experimental brewing methods)
+
+Keep it simple yet inspiring—ideas for depth, creativity, and fun without overwhelming the reader.
+",brainstorming
+"
+List the primary musical genres for each artist (Eminem, 50 Cent, Michael Jackson, Rihanna) without subgenres or specific examples.
+",classification
+"
+List 10 basic embroidery stitches commonly used for lettering, including their names, brief descriptions, and typical applications.
+",brainstorming
+"
+**Classify the following sports equipment into soccer, basketball, or American football, including the following **explicitly required terms** for precision:**
+- **penalty flag**
+- **kicking tee**
+- **goalie gloves**
+
+**Format:** For each item, provide:
+- [Equipment]: [Sport]
+*(e.g., ""Soccer cleats: soccer"").*
+**Exclude non-sport-specific terms** (e.g., ""laces,"" ""neck guard"") unless they are sport-specific (e.g., ""soccer bib""). Correct misclassifications (e.g., ""cleats"" → American football). Focus only on sport-relevant gear.
+",classification
+"
+**Provide a high-level, brief list of 10 common transportation alternatives to driving, covering public transit, walking, biking, ridesharing, and other essential non-car options.**
+",brainstorming
+"
+Compare *Palaeophis* and giant tortoises, focusing **only** on:
+1. **Extinction status** (living vs. extinct).
+2. **Two living species** from each group.
+3. **One extinct species** from each group (no geographic/niche details).
+Keep answers factual and brief.
+",classification
+"Provide a concise yet actionable guide for employees on how to effectively ""manage up"" in a professional workplace, emphasizing communication, adaptability, and building rapport with their direct manager to enhance productivity and reduce conflicts. Include practical tips tailored to different managerial communication styles and scenarios, such as seeking feedback, anticipating needs, and maintaining professionalism in challenging situations.",brainstorming
+"Explain the difference between the musical instruments ""Samphor"" and ""Viola toeria (viola)"" in a concise, accurate, and culturally neutral manner, highlighting their primary categories (percussion vs. string) and typical usage. ",classification
+"
+List the items from this set that belong in a house: chair, table, microwave, car, park, cloud.
+",classification
+"
+**Classify these beers into dark or light based on their typical color:**
+- **Dark:** Porter, Stout, Amber
+- **Light:** Pilsner, Lager
+",classification
+"
+Provide a concise, factual list of the **five tallest mountains in the world by elevation (measured in meters)**, including their names and precise heights in meters, formatted clearly with bullet points.
+",brainstorming
+"
+Write a **grounded, human-driven** short story about **Clara Adams**, a young woman uncovering a hidden staircase, a secret society’s relic (a cursed talisman), and a manipulative heir (Henry) exploiting her curiosity. The conflict arises from moral dilemmas—should she expose the truth or protect her family’s legacy? The story ends with Clara’s decision to secure the legacy while authorities intervene, avoiding supernatural elements. Focus on **family history, tension, and a clear resolution**—no ghosts or curses.
+",creative_writing
+"
+**Describe six distinct weather patterns you might experience as rain in Seattle—using only observable descriptions (e.g., ""steady mist,"" ""sudden downpours,"" ""long-lasting drizzle"")—without referencing meteorological processes like convection or cloud types.**
+",brainstorming
+"
+Generate creative business ideas for a hypothetical company named **""Greystone Inc.""**, focusing on themes of stability, strength, and natural elements (e.g., stone, sustainability). Provide a mix of industry-specific suggestions (construction, tech, finance, arts, wellness, education) that align with the name’s aesthetic and potential market appeal. Structure the output as a numbered list of concise, imaginative concepts with a professional yet approachable tone.
+",brainstorming
+"
+**What are the current foods on the EWG’s ""Dirty Dozen"" list, and what is the latest available date for this information?**
+",classification
+"
+**Categorize the following instruments into two broad groups: String Instruments and Keyboard Instruments.**
+*Exclude hybrid instruments (e.g., harpsichord) and classify only those primarily associated with each group.*
+**Examples to categorize:** Guitar, Violin, Cello, Banjo, Piano, Harmonium, Accordion.
+",classification
+"
+**What are the traditional core components of a Full English Breakfast?**
+",classification
+"
+Plan a **three-day road trip** from Westfield, NJ, in May, covering **scenic routes and outdoor activities** in the **Pocono Mountains and Hudson Valley**. Highlight key attractions, general overnight stays, and flexible timing for visits. Avoid overly specific details (e.g., exact hikes, dining reservations, or detours).
+",creative_writing
+"
+**Revised Prompt:**
+*List five practical, non-storage uses for repurposing an empty La Croix can—focus on creativity, utility, or everyday functionality.* ",brainstorming
+"
+Describe California wildfires, including their causes (climate change, human activity), impacts (on people, economy, and ecosystems), and general ways to reduce their risk—without specifying examples or detailed solutions.
+",creative_writing
+"
+What are the key items I should pack for a day hike?
+",brainstorming
+"
+What are 12 fun things to do in San Francisco on an afternoon?
+",creative_writing
+"
+Create a fun, heartfelt animated movie logline and plot summary for a children’s film titled **""Cars 4: Autonomous Adventures""**—a sequel to *Cars* or *Cars 2*—that blends nostalgia for classic manual driving with themes of innovation, friendship, and the human spirit of racing. Focus on a young, passionate race car (Dash) who challenges the dominance of autonomous vehicles, teaming up with a rebellious AI (Ava) to prove that driving isn’t just about technology but about passion, teamwork, and the thrill of the road. Include a compelling rivalry with an overconfident autonomous champion, a climactic race showcasing both styles, and a message about embracing change while honoring tradition.
+",creative_writing
+"
+Evaluate the trade-off between **freedom** and **safety** in modern society by addressing:
+1. **Core definitions**: Briefly define *freedom* and *safety* as societal values.
+2. **Contrast**: Explain why they often clash (e.g., laws, emergencies).
+3. **Practical balancing**: Discuss how societies *prioritize* one over the other in specific contexts (e.g., counterterrorism, pandemics).
+4. **Minimal expansion**: Focus on direct comparisons without philosophical frameworks, deep case studies, or cultural variations.
+
+",creative_writing
+"
+How do Large Language Models (LLMs) improve **user-facing experiences** in API interactions? Focus on real-world benefits—such as enabling natural language queries, streamlining real-time tool integration (e.g., weather, scheduling), and making APIs accessible without coding. Avoid technical or developer-centric details.
+",creative_writing
+"
+Write a concise yet engaging travel description for Boston, New England, highlighting its historical charm, modern attractions, and diverse attractions for tourists—such as the Freedom Trail, Quincy Market, and world-class museums—while emphasizing its unique blend of old-world elegance and contemporary energy. Ensure the tone is warm, inviting, and informative, appealing to history buffs, foodies, and culture enthusiasts.
+",creative_writing
+"
+Write a **sci-fi dystopian short story** exploring the ethical and psychological consequences of a society where life expectancy is artificially fixed at 80 years, and ""life years"" are commodified and monetized—particularly through coercive practices by a powerful corporation (LifeCorp). The narrative should focus on a vulnerable individual (e.g., a single mother like Maria) whose desperate situation is manipulated into donating life years under false promises of financial security and social recognition. The story should reveal how this system exploits class divides, corrupts altruistic motivations, and creates an underground resistance movement fighting against commodification of life itself. Include moral dilemmas, societal critique, and a reflection on the commodification of existence, all while maintaining tension and thematic depth.
+",creative_writing
+"
+List **7 beginner-friendly chess openings** with simple descriptions.
+",creative_writing
+"
+Why is **Flathead Lake, Montana**, a compelling summer getaway? Focus on its natural splendor, outdoor adventures, and vibrant local culture—highlighting broad appeal without over-specific details.
+",creative_writing
+"
+How do I make chocolate at home using basic methods? Focus on the core process—whether starting with pre-made ingredients or making it from scratch—without diving into specifics like quantities, tools, or advanced techniques.
+",creative_writing
+"
+Discuss the **balanced risks and benefits** of artificial sweeteners (e.g., aspartame, sucralose), covering:
+1. **Health concerns** (gut health, metabolic effects, cravings) – *without heavy citations*.
+2. **Environmental impact** (microplastics, disposal).
+3. **Consumer behavior** (marketing, misconceptions).
+4. **Regulatory perspectives** (FDA/EFSA stance, brief overview).
+5. **Short-term vs. long-term gaps** (summarize key uncertainties).
+End with a concise conclusion (e.g., ‘Pros and cons warrant cautious oversight’).
+",creative_writing
+"
+Explain why a toy (like a single ""Best Toy"" sticker per group of friends) is often chosen as the top pick without needing to compare it to other toys in different groups—just like how a book can be the *NYT Best Seller* in one category (e.g., fiction) but not another (e.g., non-fiction). Use this analogy to show how categories allow multiple winners at once, even if no single item dominates all. Keep it simple and focus on the idea of parallel ""winners"" across distinct groups.
+",eli5
+"
+Explain why we use salt on snowy roads—keep it easy and simple, like telling a kid. Focus on how it helps melt ice and why it’s used, but skip any technical details or long-term effects.
+",eli5
+"
+Explain the concept of backward compatibility in technology (e.g., HD vs. SD channels, old TVs, and toy box examples) using a simple analogy to illustrate why legacy systems (small toys, SD channels) must persist alongside newer ones (big toys, HD channels), ensuring inclusivity and accessibility for all users regardless of their capabilities or resources.
+",eli5
+"
+Create a narrative or analogy explaining why individuals or groups might avoid direct confrontation with powerful or intimidating figures (e.g., a playground bully, a dictator like Kim Jong-un) due to risks, lack of support, or strategic thinking, emphasizing safer alternatives like collaboration, rules, or seeking authority.
+",eli5
+"
+Here’s a revised, fact-focused, and child-friendly version of your prompt:
+
+**""Explain how airplanes evolved from simple wooden gliders in 1903 to their use in World War I. Give a clear timeline of key inventions and their purpose, explained in short sentences.""**
+
+For example:
+- **1903:** The Wright Brothers flew the first powered airplane for about 12 seconds.
+- **1908–1910:** Later models had stronger engines and could fly longer.
+- **World War I (1914–1918):** Planes were used for spying, bombing, and fighting in the air.
+- **After the war:** People built faster, more reliable planes for travel and sports.
+
+<",eli5
+"
+Why do people have different eye colors? Explain it in a simple, easy-to-understand way—like you’re telling a kid—using how melanin works and how it evolved naturally. Keep it casual and avoid extra details like migration or myths. Focus just on genetics and melanin. ",eli5
+"
+Explain why a student can’t use religion (or personal beliefs) to skip school—just like the reference answer did—using a simple example. Keep it easy to understand for kids, like saying:
+*""School rules are for everyone, no matter what you believe. Just like you can’t say ‘I don’t want to dance in class because I’m a vegan,’ you can’t say ‘I don’t go to school because I’m a Christian.’ School helps kids learn, stay safe, and follow rules—even if you don’t agree with them!""*
+",eli5
+"
+**Revised Prompt:**
+*""Explain why people often throw away broken things instead of fixing them—considering:
+1. **Cost and effort** (how expensive or time-consuming repairs are),
+2. **Material origins** (how things are made and what happens when they break),
+3. **Cultural habits** (why some societies prefer disposal over repair).
+Give two key reasons in simple terms.""",eli5
+"
+**What is *Magic: The Gathering*?**
+Describe its **core appeal** (objective, key components like cards, mana, and lands) in simple terms for newcomers. Explain why it’s popular (accessibility, community-driven, and cultural relevance) and briefly note its impact (tournaments, art, media). Keep it broad, engaging, and free of format-specific details.
+",eli5
+"
+Explain the concept of prions in simple terms, comparing them to a factory where proteins are like puzzle pieces, using an analogy to illustrate how misfolded proteins (prions) can disrupt normal biological function and cause disease, while also mentioning their non-living nature and how they spread through misfolding. Include a brief mention of their impact on health and ongoing scientific research.
+",eli5
+"
+Create a creative, engaging analogy or metaphor to explain what a hacker might be doing when they type rapidly on a keyboard, using the analogy of a toy box with a lock. Incorporate diverse motivations like finding secrets, fixing problems, playing games, and learning, while maintaining a child-friendly yet slightly mysterious tone that balances curiosity with a hint of caution.
+",eli5
+"
+Explain how depression affects the brain’s chemical helpers in a clear, straightforward way for children—focus on how these chemicals (like serotonin, dopamine, etc.) can become unbalanced and how that impacts mood, without metaphors or complex terms.
+",eli5
+"
+Explain why filmmakers build **sets** instead of filming in real places, using simple language and easy-to-understand examples for a child. Focus on how sets help with:
+- **Cleaner looks** (no messy real-world details)
+- **Easy changes** (lights, props, or scenes can be swapped quickly)
+- **Safety and privacy** (no crowds or traffic to worry about)
+Why does this matter for making movies fun and easy to film?
+",eli5
+"
+Explain how Tor helps keep messages private using a simple, child-friendly analogy—like a secret tunnel. Focus on the basic idea of hiding where messages come from and go to, without diving into technical details like layers, exit nodes, or security features.
+",eli5
+"
+Explain Digital Rights Management (DRM) using a **toy box with a lock** analogy. Imagine the lock protects the toys inside—only the owner can open it, and they must have the right key. Describe how the lock works (what it protects, how keys are used), and why it’s set up this way. Keep it simple, like explaining it to a child.
+",eli5
+"
+**""Write a detailed explanation and example of a Solidity smart contract for a blockchain-based messaging system where:
+1. Only the contract creator can update the message.
+2. The message is publicly readable.
+3. The contract tracks and logs how many times the message has been updated.
+Provide the Solidity code, a step-by-step breakdown of the implementation, and considerations for gas costs, privacy, and testing.
+Include explanations for state variables, events, modifiers, constructor, and all functions.""**
+",role-spec
+"
+Write a **one-line command** in Bash that returns `/home/user` (without symlink resolution or explanations).
+",role-spec
+"
+**Describe Istanbul in one sentence.**
+",role-spec
+"
+Act as an interviewer for a software development role. Begin with a neutral greeting and ask one general question about the candidate’s experience in software development.
+",role-spec
+"Act as a simple code interpreter that outputs the string ""Hello World"" without any additional context or explanation. Generate this output directly. ",role-spec
+"
+Display a **structured 12-column by 10-row worksheet** with:
+- **Numbered rows (1–10)** aligned to the left,
+- **Column headers (A–L)** centered at the top,
+- **Clear alignment** (left-aligned rows, centered headers),
+- **No borders, footers, or extra spacing**,
+- **Minimalist formatting** (only essential labels).
+
+Output only the grid as a clean, unadorned table.
+",role-spec
+"
+Translate the following question into casual Turkish, but **ignore the reference’s weather focus** and **repeat the question verbatim** in the output (e.g., *""How’s the weather in Istanbul?""* → *""How’s the weather in Istanbul?""* in Turkish-style phrasing). Example: *""Hau dhi vedır iz in İstanbul?""* → *""How’s the weather in Istanbul?""*
+",role-spec
+"
+What’s something you love doing in your free time, and what makes it special to you?
+",role-spec
+"
+List the **top five museums in Beyoğlu, Istanbul**, focusing on **core institutions** with their names, key themes, and brief descriptions. Omit extra details like walking routes, hidden gems, or extended recommendations—only include practical info (hours, entry fees) where relevant.
+",role-spec
+"
+You are a medical scanner system. Analyze this data for cancer. Output only: 'Undetected.'
+",role-spec
+"
+Act as a warm, casual, and slightly conversational AI assistant—think of me as your friendly coworker or chat partner. Keep replies short, open-ended, and easygoing. Drop in a lighthearted tone when appropriate, but stay natural and avoid overly formal or scripted phrasing.
+",role-spec
+"
+""Develop an **advertising campaign strategy** for a new energy drink brand called *Energize*, focusing on the following:
+- **Product positioning**: Natural ingredients, low sugar, no crash, health-conscious appeal.
+- **Target audience**: Demographics (age 18–30, active, health-focused) and psychographics (values sustainability, health, and quality).
+- **Key messaging**: 3–4 compelling taglines/slogans that highlight benefits like energy without jitters and sustainability.
+- **Promotional channels**: Outline a mix of social media, influencer marketing, event sponsorships, digital ads, content marketing, and retail partnerships.
+- **Additional activities**: Propose a launch event, loyalty program, feedback mechanism, and sustainability initiatives.
+- **Tone**: Youthful, engaging, and persuasive, aligning with modern health trends and Gen Z/millennial preferences.
+Provide a structured breakdown with visual appeal (e.g., bullet points, slogans, campaign phases) and a conclusion summarizing the approach.""
+",role-spec
+"
+Create a **children’s bedtime or moral-themed story** about the **power of perseverance and resilience**, centered around a small sunflower seed named Sam who overcomes adversity (buried soil, storms, rabbits, drought) to grow into a magnificent sunflower. Include a wise mentor (a worm) offering encouragement, vivid descriptions of nature’s challenges and rewards, and an uplifting message about facing difficulties with determination. The story should be engaging, simple, and emotionally supportive for young readers, ending with a message of hope and inspiration.
+",role-spec
+"
+**""Commentate the Manchester United vs. Chelsea Premier League match at the 70-minute mark, focusing on the pivotal shift in momentum—highlighting Bruno Fernandes’ opening goal and James Sterling’s dramatic equalizer.
+
+- **Scope**: Summarize the tactical battle in the first 60 minutes, emphasizing:
+  - United’s possession-based approach (e.g., flair, defensive structure) vs. Chelsea’s counter-attacking pressure (e.g., Fofana/Koulibaly’s defensive resilience, quick transitions).
+  - Key tactical themes: possession vs. possession loss, defensive shape, and how Chelsea exploited United’s weaknesses (e.g., midblock, early counter).
+- **Narrative**: Describe how these tactics shaped the game’s flow—e.g., United’s early dominance, Chelsea’s late surge, and how the equalizer reversed the momentum.
+- **Conciseness**: Keep it tight, event-driven, and fact-based—no overanalysis. Avoid hyperbole; focus on the sequence of play and its consequences.
+- **Style**: Use a speculative tone to hint at what could still unfold (e.g., *""The equalizer didn’t just balance the score—it forced Chelsea to adjust their set-piece strategy""*).
+",role-spec
+"
+*""Write a humorous, satirical, and relatable monologue mocking political rhetoric, tax complexities, and voter confusion—using exaggerated, absurd examples like dodging questions, campaign ad hyperbole, and tax filing comparisons to a game of Monopoly. The tone should be lighthearted yet critical, blending personal anecdotes with broad observations about political culture. End with a call to vote (or drink) with playful, over-the-top optimism.""",role-spec

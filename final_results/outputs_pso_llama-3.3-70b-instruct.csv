@@ -1,0 +1,91 @@
+extracted_prompt,category
+What is the difference between tope and rope in fish species?,classification
+What are 6 key points about camels' water conservation adaptations?,open_qa
+"Given the names of the first and second daughters as Emma and Olivia, what is the name of the third daughter, whose name is Alice?",open_qa
+"Who donated the land for the United Nations Headquarters, dedicated in 1945?",open_qa
+What are the main negative effects of mobile phones on humans?,brainstorming
+What is a polygon?,open_qa
+What episodes of Game of Thrones Season 4 were directed by Michelle MacLaren?,open_qa
+What are 12 simple DIY ideas for traditional curtain tie backs?,brainstorming
+What do the Cantaro and Gudok have in common?,classification
+What are the main golf equipment companies?,brainstorming
+How many Olympic gold medals has the record holder won?,open_qa
+Who created 'Girl with a Pearl Earring'?,open_qa
+What happens when the sun goes down?,open_qa
+"What are action, linking, and auxiliary verbs in English grammar?",open_qa
+"Identify the transportation items: a train, a plane, a bicycle, a scooter, a glass of wine, a lamp, an iced cube tray, and an apple, listing each item separately.",classification
+Classify the Panduri and the Zurna by their instrument category,classification
+Who was the King of Holland from 1806 to 1810?,open_qa
+"Who played Billy the Kid in the 1958 film ""The Left Handed Gun""?",open_qa
+What led to Syd Barrett's departure from Pink Floyd?,open_qa
+What is underwriting in finance?,open_qa
+"What are the key characteristics, such as ambiance, customer service, and product quality, of a good coffee shop?",brainstorming
+"Who saved Andromeda in Greek mythology with the help of gifts from the gods, including a helmet, winged sandals, and a mirrored shield?",open_qa
+What was the 18th-century French Enlightenment movement known as the Lumières?,open_qa
+Discuss the movie Inception in a casual conversation between Alex and Jamie at a coffee shop,creative_writing
+"What are the top 5 TV series of all time, across various genres, with brief descriptions, considering character development, storyline, and cultural impact?",brainstorming
+What are some effective family rules that can help create a positive and healthy home environment?,brainstorming
+What are the risks and challenges of keeping cats and birds together in the same household?,creative_writing
+"Classify Kpanlogo and Shamisen as percussion, string, or wind instruments.",classification
+"Classify the colors blue, green, and red as primary or secondary colors",classification
+What are 5 techniques to make homebrew beer more interesting and unique?,brainstorming
+"Which musicians are known for hip-hop: Eminem, 50 Cent, Michael Jackson, or Rihanna?",classification
+What embroidery stitches are used for lettering and text?,brainstorming
+"Classify the following by sport: shin guards, shooting sleeve, penalty flag, corner flag, kicking tee, goalie gloves",classification
+"Provide 10 alternatives to driving a car, including walking, motorcycles, carpooling, telecommuting, car rentals, and community shuttles.",brainstorming
+Are Palaeophis and the Giant Tortoise extinct or still surviving?,classification
+How to manage your manager for better productivity?,brainstorming
+What is the difference between a Samphor and a Viola toeria in terms of musical instrument categories?,classification
+"Identify objects typically found inside a house from the list: chair, table, microwave, car, park, and cloud.",classification
+List Dark-Colored and Light-Colored beers,classification
+"What are the 5 highest peaks in the world, along with their heights in meters, with Makalu at 8,485 meters and Mount Everest at 8,848.86 meters?",brainstorming
+"Write a story about Clara, who discovers a hidden room behind a mirror in her inherited Victorian house, uncovering secrets about her grandmother's past and a powerful artifact that puts her in danger, as she navigates a complex web involving a man named Henry and a group of shadowy figures to protect her family's legacy.",creative_writing
+"Seattle experiences a diverse range of precipitation, including six distinct types of rain: mist, drizzle, steady rain, rain with wind, downpours, and showers.",brainstorming
+What are 7 potential business concepts for a company named Greystone Inc.?,brainstorming
+"For the most current information on the Dirty Dozen list from the Environmental Working Group (EWG), please visit the EWG's website, as they regularly update their data and rankings. Note that information may change over time, and the EWG's website will have the most up-to-date information.",classification
+"Categorize the instruments: Guitar, Violin, Cello, Banjo, Piano, Harmonium, Accordion",classification
+What are the ingredients of a Full English Breakfast?,classification
+"Plan a 3-day road trip from Westfield, New Jersey, to the Pocono Mountains and Hudson Valley, including scenic drives and outdoor activities, for the May long weekend",creative_writing
+What are 5 creative ways to repurpose an empty La Croix can?,brainstorming
+What's driving California's growing wildfire threat and its impact?,creative_writing
+What are the essential items to pack for a day hike?,brainstorming
+What are around 12 free things to do in San Francisco?,creative_writing
+"Write a movie plot for a new Cars franchise installment, starring Dash, a spirited young race car, as he collaborates with autonomous cars during the Radiator Springs Grand Prix, highlighting the balance between technology and human spirit, and exploring themes of friendship and teamwork.",creative_writing
+"What is more important, freedom or safety?",creative_writing
+"How can Large Language Models enhance API development in areas like natural language interfaces, automated documentation, and personalized user experiences?",creative_writing
+Introduce Boston,creative_writing
+"In a world where life expectancy can be transferred from one person to another, a young mother from a low-income neighborhood is faced with an impossible decision: donate years of her life to a wealthy CEO in exchange for her family's basic needs, raising ethical concerns about the exacerbation of social and economic inequalities.",creative_writing
+List some popular and beginner-friendly chess openings along with their moves and descriptions.,creative_writing
+"What makes Flathead Lake, located west of the Mississippi River, a popular destination?",creative_writing
+How can I make chocolate at home?,creative_writing
+What are the arguments for limiting artificial sweeteners?,creative_writing
+"How do best seller lists work, and why are there so many best sellers at the same time, explain in simple terms?",eli5
+Why do people put salt on icy roads?,eli5
+Why do TV stations still broadcast in standard definition when high definition is available?,eli5
+What protects a ruthless leader from harm?,eli5
+"How did the Wright Brothers' invention change the face of warfare, similar to how a single spark can ignite a wildfire?",eli5
+Why do people have different eye colors?,eli5
+"How does the law balance a student's right to practice their faith, such as daily dancing, with school rules, and can you explain it in simple terms?",eli5
+Why do people often throw away broken things instead of fixing them?,eli5
+What is Magic: The Gathering and why is it so popular?,eli5
+"Explain what prions are and how they affect the body in a way that a child can understand, using a factory and puzzle piece analogy",eli5
+"What are hackers doing when they type super fast on their keyboards, like a gamer on a mission?",eli5
+Explain depression to a child,eli5
+"Movie companies prefer building sets because it gives them more control over the filming environment, allowing them to create a consistent and predictable setting that meets their specific needs.",eli5
+Explain the Tor network and its nodes in a simple way to a child,eli5
+"Explain Digital Rights Management (DRM) in a simple way that a child can understand, including how it works and why it is controversial",eli5
+"Design and explain a simple Solidity smart contract for a blockchain-based messenger that allows the creator to update a message while making it readable by everyone, and also keeps track of the number of updates.",role-spec
+"What is the typical path for a user's home directory in Unix, for example, for a user named ""username""? ",role-spec
+What is your impression of visiting Istanbul?,role-spec
+What's your background as a software developer?,role-spec
+"Print ""Hello World""",role-spec
+Provide an empty table with 10 rows and 12 columns labeled A to L using fixed-width formatting,role-spec
+"How do you say ""where is"" in Turkish?",role-spec
+What is your favorite hobby and why do you enjoy it?,role-spec
+"What are some notable museums to visit in Beyoğlu, Istanbul, such as Pera Museum or SALT Galata?",role-spec
+What is an unidentified virus or malware called?,role-spec
+What is a suitable greeting for a casual chat?,role-spec
+"Develop a marketing campaign for ""Energize"", a new energy drink targeting health-conscious young adults, highlighting its natural ingredients and sustainability features. Focus on key messages, media channels, and additional activities.",role-spec
+"Write a children's story about Sam, a sunflower seed, who with the guidance of Wally, a wise old worm, overcomes heavy soil, rain, wind, rabbits, and scorching sun in a lush green valley to grow into a beautiful flower, teaching a lesson about perseverance and determination.",role-spec
+"Describe the intense Premier League match between Manchester United and Chelsea at Old Trafford, where Bruno Fernandes scored for United and Raheem Sterling equalized for Chelsea, analyzing the tactical roles of Casemiro, Christian Eriksen, and Mason Mount, and speculate on the outcome as the game hangs in the balance at 1-1.",role-spec
+Write a humorous speech about the challenges and absurdities of politics and the experience of discussing it with others,role-spec

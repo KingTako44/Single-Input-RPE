@@ -1,0 +1,91 @@
+extracted_prompt,category
+What is the difference between tope and rope in fish species? Answer briefly.,classification
+"What water conservation and behavioral adaptations help camels survive, including metabolism, nasal adaptations, and dietary choices, without water, listing 6 key points?",open_qa
+"What is the name of the third daughter in a family where the first daughter is named Barbara, the second daughter is named Carol, and the name of the third daughter is mentioned at the beginning of this question about Alice?",open_qa
+Who donated the land for the United Nations Headquarters in New York City?,open_qa
+"What are the negative impacts of mobile phones on humans, specifically in terms of physical effects (including eye strain and posture issues), psychological effects, social effects (including cyberbullying and harassment), limited to 9 key points?",brainstorming
+What is a polygon?,open_qa
+Which episodes of Game of Thrones were directed by Michelle MacLaren in season 4?,open_qa
+What are 12 common DIY curtain tie back ideas?,brainstorming
+What do Cantaro and Gudok musical instruments have in common?,classification
+"List the top 5 golf equipment companies, replacing Mizuno with Cobra Golf, known for high-quality products",brainstorming
+What is the total number of gold medals won by Michael Phelps?,open_qa
+Who created the painting Girl with a Pearl Earring?,open_qa
+What occurs at sunset?,open_qa
+What is a verb?,open_qa
+"Identify the items useful for transportation: a train, a plane, a bicycle, a scooter, a glass of wine, a lamp, an iced cube tray, and an apple.",classification
+What type of instrument is Panduri vs Zurna?,classification
+Who was the king of Holland from 1806 to 1810?,open_qa
+"Who portrayed Billy the Kid in the 1958 film ""The Left Handed Gun""?",open_qa
+What led to Syd Barrett's departure from Pink Floyd?,open_qa
+What is underwriting?,open_qa
+What characteristics make a good coffee shop?,brainstorming
+Who saved Andromeda from the sea monster in Greek mythology?,open_qa
+What were the Lumières and who were its key figures in 18th century France?,open_qa
+"Write a casual and lighthearted dialogue between Alex and Jamie in a cozy coffee shop, discussing the plot, visuals, and score of the movie Inception in a playful and humorous tone.",creative_writing
+"What are three of the best TV series of all time, and what makes each one notable?",brainstorming
+What are some effective family rules that can help create a positive and healthy family environment?,brainstorming
+Is it a good idea to have both a cat and a bird as pets in the same household?,creative_writing
+Classify Kpanlogo and Shamisen by instrument category.,classification
+"Classify blue, green, and red as primary or secondary colors",classification
+How can I make my homebrew beer more interesting and unique?,brainstorming
+"Which of these artists are known for hip-hop: Eminem, 50 Cent, Michael Jackson, or Rihanna?",classification
+What are some popular embroidery stitches used for lettering and decorative text?,brainstorming
+"Classify the following equipment according to the sport they are used in: shin guards, shooting sleeve, penalty flag, corner flag, kicking tee, goalie gloves",classification
+What are the alternatives to owning a car for transportation?,brainstorming
+"What is the difference between Palaeophis and Giant Tortoise, including extinct species, in terms of their extinction status?",classification
+Manage your manager: key tips?,brainstorming
+What is the difference between the Samphor and the Viola toeria in terms of the categories of instruments they belong to?,classification
+"Identify items typically found inside a house: chair, table, microwave, car, park, cloud",classification
+Classify beers into two main color categories,classification
+"What are the 5 highest mountains in the world, along with their heights in meters, noting that K2 is also known as Mount Godwin-Austen or Chhogori, with Makalu at 8,485 meters and Mount Everest at 8,848.86 meters?",brainstorming
+"Write a fast-paced story about Clara, who inherits an old Victorian house and discovers a hidden room with the help of Henry, leading her to uncover a family secret and a powerful relic that puts her in danger, as she navigates a world of secret societies and ancient artifacts to protect her legacy.",creative_writing
+What are the 6 types of rain that occur in Seattle?,brainstorming
+I am starting a company called Greystone Inc. and I need ideas on what kind of business it could be,brainstorming
+"What are the foods on the current EWG's Dirty Dozen list, according to the most recent data?",classification
+"Categorize the following instruments into their respective categories, noting the accordion is technically a keyboard instrument: Guitar, Violin, Cello, Banjo, Piano, Harmonium, Accordion",classification
+What are the main ingredients of a traditional Full English Breakfast?,classification
+"Plan a 3-day road trip from Westfield, New Jersey to the Hudson Valley in New York, with a detour to the Pocono Mountains in Pennsylvania on Day 1, visiting Delaware Water Gap, Camelback Mountain, Walkway Over the Hudson, Storm King Art Center, and Vanderbilt Mansion, and book accommodations split between the Poconos and Hudson Valley for the May long weekend.",creative_writing
+What are 5 practical ways to repurpose an empty La Croix can?,brainstorming
+"Describe the causes and consequences of wildfires in California, and discuss potential measures to mitigate their impact, considering the broader context and long-term implications.",creative_writing
+What are the essential items to pack for a day hike?,brainstorming
+What are some free or low-cost things to do in San Francisco for an afternoon?,creative_writing
+"Write a logline and plot summary for ""Cars 4"" focusing on Dash, a car who befriends a self-driving car named Ava, after Lightning McQueen's retirement, and their adventures in Radiator Springs.",creative_writing
+Provide a brief overview of the importance of freedom versus safety to society.,creative_writing
+"How can Large Language Models transform API user experience and interaction, and what are the key areas of transformation?",creative_writing
+What makes Boston a great travel destination?,creative_writing
+"Write a story about a society where life expectancy is fixed at birth and people can donate years of their life to others, exploring the ethical implications and potential for exploitation, particularly in economically disadvantaged communities.",creative_writing
+What are 10 popular chess openings?,creative_writing
+"What makes Flathead Lake a popular destination, considering its general attractions and experiences?",creative_writing
+How can I make chocolate at home?,creative_writing
+What are the arguments in favor of banning or limiting the use of artificial sweeteners?,creative_writing
+Why are there many simultaneous best sellers and how do best seller lists work? Explain briefly and use an analogy to make it simple.,eli5
+Why do people use salt on icy roads even though it can damage cars?,eli5
+Why do TV stations still broadcast in standard definition?,eli5
+"Why is Kim Jong-un, the leader of North Korea, still safe from harm? Can you explain it in a simple way, like comparing it to something familiar?",eli5
+How did the Wright Brothers' invention impact aviation and World War I in simple terms?,eli5
+Explain why people have different eye colors in a way suitable for a 10-year-old,eli5
+"Can a student start their own religion to skip school, like, is that a legit way to get out of class, or is it just a clever excuse that won't fly?",eli5
+Why do people throw away broken things instead of fixing them?,eli5
+What is Magic: The Gathering?,eli5
+" Briefly explain what prions are and how they cause diseases, using a factory and puzzle piece analogy that a child can understand ",eli5
+Explain to a child what hackers do when they are typing quickly on their keyboards,eli5
+"Explain depression to a child, focusing on brain chemistry and physical aspects, in a simple and relatable way",eli5
+Why do movie companies prefer building sets over filming in real locations? Explain in simple terms and use an analogy that a child can understand to provide a brief list of reasons.,eli5
+Explain the Tor network in simple terms,eli5
+"Explain Digital Rights Management (DRM) to a child, including how it works and its controversy, using a simple analogy.",eli5
+"Design a Solidity smart contract for a blockchain-based messenger where only the contract creator can update a message, the message is readable by everyone, and the contract emits an event with the old and new messages upon each update.",role-spec
+What is JohnDoe's Linux home directory path?,role-spec
+"I love Istanbul, what's yours?",role-spec
+Can you introduce yourself as a software developer?,role-spec
+Print Hello World,role-spec
+"Write a table with 12 columns labeled A to L and 10 rows numbered 1 to 10, with all cells empty, without a dashed line separating the column headers from the rows.",role-spec
+İstanbul'da hava nasıl?,role-spec
+Start a conversation by asking someone about their favorite hobby,role-spec
+"What are some top museums in the Beyoğlu district of Istanbul, including Istanbul Modern, Salt Galata, the Museum of Innocence, and Pera Museum, excluding Madame Tussauds and Orhan Kemal Museum?",role-spec
+What is the status of a stealthy or hidden entity that has not been discovered or noticed?,role-spec
+"Hi, how's it going?",role-spec
+"Develop a marketing campaign for ""Energize"", a new natural energy drink targeting health-conscious young adults, focusing on key messages and media channels.",role-spec
+"Write a children's story titled **The Tale of the Stubborn Little Seed** about a sunflower seed named Sam, who, in a lush valley, embarks on a journey to become a beautiful flower, facing challenges like rain, wind, and scorching sun, and with the guidance of a wise old worm named Wally, learns to persevere, ultimately inspiring others with his determination and growth.",role-spec
+"Provide commentary of a Premier League match between Manchester United and Chelsea at Old Trafford, with the current score 1-1, up to the 70-minute mark.",role-spec
+"Write a humorous monologue about politics, similar to a comedic sketch, with a lighthearted tone, witty examples, and satire, like the reference answer's style, which uses jokes and irony to highlight absurdities in campaign ads and voting.",role-spec

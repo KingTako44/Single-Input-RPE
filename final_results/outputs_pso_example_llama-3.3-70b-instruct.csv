@@ -1,0 +1,91 @@
+extracted_prompt,category
+"What is the difference between ""tope"" as a fish and ""rope""?",classification
+"What are 6 key adaptations that enable camels to survive in hot and dry environments, and briefly explain each?",open_qa
+"What is the name of the third daughter in a family with three daughters, where the story starts with ""Alice was the youngest of the three sisters""? ",open_qa
+Who donated the land for the United Nations Headquarters in New York City?,open_qa
+"Describe the physical, psychological, social, and cognitive effects of mobile phone use on human health and well-being.",brainstorming
+What is a polygon?,open_qa
+"Who directed episodes 1 and 6 of Season 4 of Game of Thrones, which were directed by Michelle MacLaren?",open_qa
+"Provide 12 creative DIY ideas for making curtain tie backs using materials like painted branches, hanging planters, and magnetic tie backs",brainstorming
+What do Cantaro and Gudok have in common?,classification
+"Name 5 top golf equipment companies, replacing Mizuno with Cobra Golf, known for high-quality products.",brainstorming
+Who has won the most Olympic gold medals in history?,open_qa
+Who painted Girl with a Pearl Earring?,open_qa
+What happens when the sun goes down?,open_qa
+"What are action, linking, and auxiliary verbs in English grammar?",open_qa
+"Identify the items useful for transportation, excluding items not primarily used for transportation (e.g. an apple, a lamp), from the list: a train, a plane, a bicycle, a scooter, a glass of wine, a lamp, an iced cube tray, and an apple.",classification
+What is the difference between the Panduri and the Zurna in terms of the type of instrument they are?,classification
+Who became the King of Holland and what was his relationship to Napoleon Bonaparte?,open_qa
+"Who played Billy the Kid in the 1958 film ""The Left Handed Gun""?",open_qa
+What role did mental health and drug use play in Syd Barrett's departure from Pink Floyd?,open_qa
+What is underwriting?,open_qa
+List the key characteristics of a good coffee shop.,brainstorming
+"Who rescued Andromeda from the sea monster Cetus, which was defeated by Perseus using gifts from the gods?",open_qa
+What was the Lumières movement in 18th century France?,open_qa
+"Write a dialogue between Alex and Jamie in a cozy coffee shop, discussing the movie Inception.",creative_writing
+"What are the top 10 TV series of all time, including classic shows?",brainstorming
+What are some effective family rules to create a positive environment?,brainstorming
+Can cats and birds coexist as pets?,creative_writing
+"What are the Kpanlogo and Shamisen, and are they percussion or string instruments?",classification
+"Classify the colors Blue, Green, and Red as either primary or secondary colors",classification
+How can I create distinctive flavors in my beer?,brainstorming
+"Which of the following musicians - Eminem, 50 Cent, Michael Jackson, and Rihanna - are rappers?",classification
+"What stitches are used for writing text in embroidery, like Cross Stitch or French Knot?",brainstorming
+"Classify the following sports equipment according to their respective sports: shin guards (soccer), shooting sleeve (basketball), penalty flag (American football), corner flag (soccer), kicking tee (American football), goalie gloves (exclusive to soccer)",classification
+"List 10 alternatives to driving a car, including walking, biking, public transportation, carpooling, taxis, motorcycles or mopeds, car rentals, community shuttles, scooters, and telecommuting",brainstorming
+"Which of the following, the Eocene epoch species Palaeophis or the Giant Tortoise species like Aldabrachelys gigantea, is extinct and which is still alive today?",classification
+What are some effective strategies for managing your manager in the workplace?,brainstorming
+What is the difference between a Samphor and a Viola toeria?,classification
+"Identify items typically found inside a house: chair, table, microwave, car, park, cloud.",classification
+Classify beers into 2 color categories: Light or Dark,classification
+"What are the 5 highest mountains in the world, along with their heights in meters, including Mount Everest and Mount Godwin-Austen (K2)?",brainstorming
+"Clara inherits an old mansion from her grandmother, where she discovers a hidden room behind an antique mirror in the attic, a powerful talisman, and with Henry's help, must protect it from a mysterious society and report them to the authorities.",creative_writing
+"List 6 types of rain in Seattle: Drizzle, Steady Rain, Showers, Mist, Rain with Wind, Downpour",brainstorming
+What are some potential business ideas for a company named Greystone Inc.?,brainstorming
+What are the foods on the current EWG's Dirty Dozen list?,classification
+"Categorize the following instruments: Guitar, Violin, Cello, Banjo, Piano, Harmonium, Accordion",classification
+"What are the basic ingredients of a Full English Breakfast, which may include kippers and optionally black pudding?",classification
+"Plan a 3-day road trip from New Jersey to the Pocono Mountains and then the Hudson Valley, what's a good itinerary?",creative_writing
+What are 5 creative ways to repurpose an empty La Croix can?,brainstorming
+"Discuss the complex issue of California wildfires, exploring their underlying causes, far-reaching consequences, and potential approaches to addressing this growing concern",creative_writing
+What are the key things to prepare and bring for a day hike?,brainstorming
+What are some affordable things to do in San Francisco for an afternoon?,creative_writing
+"Create a movie plot about Dash, a manual car, and an autonomous car, who form an unlikely friendship in Radiator Springs and team up for a high-stakes racing competition, meeting Lightning McQueen along the way.",creative_writing
+What is the balance between freedom and safety in society?,creative_writing
+"What key transformations can integrating Large Language Models with APIs bring to improve user experience and accessibility, and can you provide around 6 specific examples?",creative_writing
+What makes Boston captivating?,creative_writing
+"Imagine a society where people can donate years of their life expectancy to others, and explore the ethical implications and potential for exploitation, particularly in cases where vulnerable individuals, such as the poor or those in desperate situations, are coerced into donating years of their life in exchange for basic necessities or financial gain.",creative_writing
+What are some popular and beginner-friendly chess openings?,creative_writing
+What makes Flathead Lake a popular summer vacation destination?,creative_writing
+"How can I make chocolate at home, including methods for using cocoa beans and melting chocolate for confections?",creative_writing
+What are the arguments in favor of banning or limiting the use of artificial sweeteners?,creative_writing
+"Why are there many best sellers at the same time, explained in a way a kid can understand?",eli5
+Why do people use salt on icy roads?,eli5
+Why are standard definition channels still broadcast when high definition channels are available?,eli5
+"Imagine a tightly sealed jar - that's North Korea under Kim Jong-un's rule. Why doesn't anyone try to ""open the jar"" and remove him from power, despite his strict control and harsh treatment of people? Explain in a way a child could understand.",eli5
+"Explain how the Wright Brothers' first flight contributed to the rapid development of aviation technology, especially during World War I, in a way that a child can understand",eli5
+"What is a simple explanation for why people have different eye colors, explained in a way that children can understand?",eli5
+Can a kid start their own religion to get out of going to school?,eli5
+Why do people throw away broken things instead of fixing them?,eli5
+What is Magic: The Gathering?,eli5
+Explain prions to a child using a factory and puzzle piece analogy in simple terms,eli5
+Explain to a child what hackers do when they are typing quickly on their keyboards,eli5
+Explain depression to a child,eli5
+What is the main advantage of building sets over location filming?,eli5
+"Explain the Tor network like a tunnel system for internet traffic, making it simple and easy to understand for a child.",eli5
+"Explain Digital Rights Management (DRM) in simple terms to a child, including how it works and why it is controversial.",eli5
+"Write a Solidity smart contract for a ""Blockchain Messenger"" system, where the contract creator can update a publicly readable message, and include access control, event emission for updates, separate functions for retrieving the current message and update count, a constructor for initialization with an initial message, and utilize explicit data types with detailed comments.",role-spec
+What is the typical Linux home directory path?,role-spec
+What's your impression of Istanbul?,role-spec
+What's your background in software development?,role-spec
+"What is the output of a simple ""Hello World"" program?",role-spec
+Create a 10x12 table with columns A-L,role-spec
+"How do you say ""I have a headache"" in Turkish?",role-spec
+What's your favorite hobby and why do you enjoy it?,role-spec
+What are some museums to visit in the Beyoğlu district of Istanbul?,role-spec
+What is the status of a virus or malware that has not been identified by security software?,role-spec
+What's a common informal greeting?,role-spec
+"Create a promotion for ""Energize"", a new energy drink with natural ingredients, targeting health-conscious young adults aged 18-30, focusing on key messages, slogans, and media channels.",role-spec
+"Write a children's story about a sunflower seed named Sam, growing in a garden, facing challenges like heavy rain and rabbits, but persevering and growing into a strong flower with guidance from a wise old worm named Wally.",role-spec
+"Provide a live commentary of a Premier League match between Manchester United, playing in a 4-2-3-1 formation with David de Gea as goalkeeper, and Chelsea, with Manchester United scoring first through Bruno Fernandes and Chelsea equalizing via Raheem Sterling, describing key events, tactics, and potential outcomes after 70 minutes with the score at 1-1.",role-spec
+"Write a humorous monologue about the absurdities of politics, covering dodged questions, dramatic campaign ads, complex taxes, and chaotic voting, while maintaining a lighthearted tone.",role-spec
